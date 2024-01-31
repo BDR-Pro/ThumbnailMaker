@@ -67,7 +67,7 @@ That's how we roll in ThumbnailMaker land. Ready to join the fun? Let's make som
 
 
 
-<img src="https://github.com/BDR-Pro/ThumbnailMaker/assets/91114465/af5f0213-7b80-446d-ab9c-0755d348cdb8" width="1920" height="1080" alt="Thumbnail">
+<img src="https://github.com/BDR-Pro/ThumbnailMaker/assets/91114465/af5f0213-7b80-446d-ab9c-0755d348cdb8" width="1168" height="664" alt="Thumbnail">
 
 
 
