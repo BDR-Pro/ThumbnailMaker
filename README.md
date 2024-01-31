@@ -57,7 +57,7 @@ Yo, keep those MongoDB creds on the down low. Internet safety is cooler than bei
 ---
 
 That's how we roll in ThumbnailMaker land. Ready to join the fun? Let's make some thumbnails that are too cool for school! 🌈🚀
-
+[OpenInFigma](https://www.figma.com/file/gajE0IsBNAuh4jbivTDjV9/ThumbnailMaker?type=whiteboard&node-id=0%3A1&t=2TrHA5tMgH2fYEs6-1)
 ---
 
 
@@ -67,6 +67,7 @@ That's how we roll in ThumbnailMaker land. Ready to join the fun? Let's make som
 
 
 
+<img src="https://github.com/BDR-Pro/ThumbnailMaker/assets/91114465/af5f0213-7b80-446d-ab9c-0755d348cdb8" width="1920" height="1080" alt="Thumbnail">
 
 
 
